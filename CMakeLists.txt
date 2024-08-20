@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: Apache-2.0
 cmake_minimum_required(VERSION 3.0)
 
-set(PROJECTLIBNAME "vendor-cpc")
+set(PROJECTLIBNAME "ctrlm-cpc")
 set(MAJOR_VERSION 1)
 set(MINOR_VERSION 0)
 set(PROJECT_VERSION "${MAJOR_VERSION}.${MINOR_VERSION}.0")
